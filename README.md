@@ -35,7 +35,7 @@ Rodar com **yarn dev**
 - **PUT/PATCH**: Alterar uma informação no back-end
 - **DELETE:** Deletar uma informação no back-end
 
-Todos os métodos menos o **GET** necessitam de /:id
+Alguns métodos necessitam de um **parâmetro**!
 
 ---
 
