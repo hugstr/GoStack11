@@ -9,5 +9,5 @@
 
 | Índice | README |
 | ------ | ------ |
-| 00 | [Back-end com Node.js](https://github.com/hugstr/GoStack11/tree/main/backend_com_node) |
-| 01 | [Front-end com ReactJS](https://github.com/hugstr/GoStack11/tree/main/frontend_reactjs) |
+| 00 | [Back-end com Node.js](https://github.com/hugstr/GoStack11/tree/main/backend_com_node/README.md) |
+| 01 | [Front-end com ReactJS](https://github.com/hugstr/GoStack11/tree/main/frontend_reactjs/README.md) |
