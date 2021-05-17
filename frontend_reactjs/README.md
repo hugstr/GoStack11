@@ -1,4 +1,4 @@
-![Logo ReactJS](https://reactjs.org/logo-og.png)
+![Logo ReactJS](https://conexaopanvel.faccat.br/wp-content/uploads/2020/05/react-js-800x450.png)
 # FrontEnd com ReactJS
 
 ---
