@@ -1,4 +1,6 @@
-![Logo Node](https://img.icons8.com/color/452/nodejs.png)
+<p align="center">
+  <img width="460" height="300" src="https://img.icons8.com/color/452/nodejs.png">
+</p>
 # BackEnd com Nodejs
 
 ---
