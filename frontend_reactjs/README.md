@@ -1,3 +1,4 @@
+![Logo ReactJS](https://reactjs.org/logo-og.png)
 # FrontEnd com ReactJS
 
 ---
