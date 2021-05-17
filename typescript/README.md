@@ -1,3 +1,5 @@
+[!Logo Typescript](https://www.notion.so/image/https%3A%2F%2Fbognarjunior.files.wordpress.com%2F2018%2F09%2Ftypescript.png?table=block&id=53e8e73e-f54d-4902-8b4f-d2e8e4d43677&width=250&userId=688bf7c1-c8d7-4aae-a8bb-b47f021f1d4a&cache=v2)
+
 # TypeScript
 
 # O que é?
