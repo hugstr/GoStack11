@@ -11,3 +11,5 @@
 | ------ | ------ |
 | 00 | [Back-end com Node.js](https://github.com/hugstr/GoStack11/tree/main/backend_com_node/README.md) |
 | 01 | [Front-end com ReactJS](https://github.com/hugstr/GoStack11/tree/main/frontend_reactjs/README.md) |
+| 02 | [Mobile com React-Native](https://github.com/hugstr/GoStack11/tree/main/mobile_com_reactnative/) |
+| 03 | [Typescript](https://github.com/hugstr/GoStack11/tree/main/typescript/README.md) |
