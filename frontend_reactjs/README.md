@@ -1,4 +1,6 @@
-![Logo ReactJS](https://conexaopanvel.faccat.br/wp-content/uploads/2020/05/react-js-800x450.png)
+<p align="center">
+  <img src="https://conexaopanvel.faccat.br/wp-content/uploads/2020/05/react-js-800x450.png">
+</p>
 # FrontEnd com ReactJS
 
 ---
