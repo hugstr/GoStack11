@@ -5,9 +5,3 @@ const api = axios.create({
 });
 
 export default api;
-
-// iOS com Emu: localhost
-// iOs/Android com dipositivo físico: IP da máquina
-// Android com Emu: adb reverse (redirecionamento de portas)
-// Android do Studio com dispositivo físico: 10.0.2.2
-// Android do Genymotion: 10.0.3.2
